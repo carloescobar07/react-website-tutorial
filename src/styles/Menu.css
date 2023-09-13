@@ -1,4 +1,4 @@
-.menu {
+.ministerios{
   width: 100%;
   height: auto;
   display: flex;
@@ -6,12 +6,12 @@
   align-items: center;
   flex-direction: column;
 }
-.menu .menuTitle {
-  font-family: cursive;
+.ministerios .ministeriostittle {
+font-family: 'Volkhov', serif;
   font-size: 60px;
 }
 
-.menuList {
+.ministerioslist {
   width: 70vw;
   height: auto;
   display: grid;
