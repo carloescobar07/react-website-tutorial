@@ -8,10 +8,10 @@ function Home() {
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
         <h1> HIAPA-ES </h1>
-        <p> Herramientas de Inteligencia Artificial Para la Política Aplicada
-              de El Salvador </p>
+        <h3> Herramientas de Inteligencia Artificial Para la Política Aplicada
+              de El Salvador </h3>
         <Link to="/menu">
-          <button> ORDER NOW </button>
+          <button> TRY DEMO </button>
         </Link>
       </div>
     </div>
